@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Major Snafu';
+    src: url('MajorSnafu.eot');
+    src: local('Major Snafu'), local('MajorSnafu'),
+        url('MajorSnafu.eot?#iefix') format('embedded-opentype'),
+        url('MajorSnafu.woff2') format('woff2'),
+        url('MajorSnafu.woff') format('woff'),
+        url('MajorSnafu.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

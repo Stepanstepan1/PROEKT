@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Capture it 2';
+    src: url('Captureit2.eot');
+    src: local('Capture it 2'), local('Captureit2'),
+        url('Captureit2.eot?#iefix') format('embedded-opentype'),
+        url('Captureit2.woff2') format('woff2'),
+        url('Captureit2.woff') format('woff'),
+        url('Captureit2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Capture it';
+    src: url('Captureit.eot');
+    src: local('Capture it'), local('Captureit'),
+        url('Captureit.eot?#iefix') format('embedded-opentype'),
+        url('Captureit.woff2') format('woff2'),
+        url('Captureit.woff') format('woff'),
+        url('Captureit.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

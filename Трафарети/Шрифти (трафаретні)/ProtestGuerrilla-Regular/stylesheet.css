@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Protest Guerrilla';
+    src: url('ProtestGuerrilla-Regular.eot');
+    src: local('Protest Guerrilla Regular'), local('ProtestGuerrilla-Regular'),
+        url('ProtestGuerrilla-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ProtestGuerrilla-Regular.woff2') format('woff2'),
+        url('ProtestGuerrilla-Regular.woff') format('woff'),
+        url('ProtestGuerrilla-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
